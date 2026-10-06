@@ -1,0 +1,8 @@
+{
+  "name": "Scrappage Portal",
+  "description": "Official Surat vehicle scrappage assistant for policy benefits, scrap value calculation, and streamlined resident registration with Shree Ambica Automotive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
